@@ -1,0 +1,21 @@
+.home {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .home h2 {
+    margin-bottom: 10px;
+  }
+  
+  .home p {
+    font-size: 18px;
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  @media (max-width: 768px) {
+    .home p {
+      font-size: 16px;
+    }
+  }
+  
